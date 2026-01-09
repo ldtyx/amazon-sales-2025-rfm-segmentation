@@ -47,6 +47,6 @@ Developed a multi-stage SQL pipeline to calculate behavioral scores:
 * **Insight**: Although the **Champion Segment** (Miami) shows lower *Total Aggregate Revenue* compared to larger segments like "Loyal" or "At-Risk", this is purely due to population size. On a per-city basis, Champions exhibit the **highest efficiency**: perfect **0-day Recency** and peak **Frequency (31 orders)**, significantly outperforming the per-city average of other groups.
 * **Actionable Strategy**: Use the Champion profile (High Frequency, Recent Interaction) as the "Golden Standard" model to train recommendation algorithms for up-leveling the "Loyal" segment.
 
-### Operational Planning: The "Paycheck Cycle" Volatility
+### Operational Planning
 * **Insight**: Weekly analysis exposes a drastic revenue dip in **mid-March (Week of March 16)**, hitting a low of **$17.6K** immediately following the early-month peak of $35K. This pattern strongly correlates with the monthly consumer **Paycheck Cycle**, where high-ticket spending (Electronics) is front-loaded at the start of the month, leading to "spending fatigue" by week 3.
 * **Actionable Strategy**: Operations should schedule inventory replenishment during the mid-month lull (Week 3) to prepare for the end-of-month demand recovery. Marketing should launch "Mid-Month Savers" promotions to flatten this volatility curve.

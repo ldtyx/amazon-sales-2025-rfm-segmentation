@@ -7,7 +7,7 @@ This project delivers an end-to-end data analysis solution for Amazon's 2025 sal
 ---
 Dashboard Preview
 Below is the final interactive dashboard highlighting key regional metrics, RFM segments, and temporal trends.
-![Amazon Sales Dashboard](assets/dashboard_tableau.png)
+![Amazon Sales Dashboard](Assets/dashboard_tableau.png)
 
 
 ## Technical Methodology
